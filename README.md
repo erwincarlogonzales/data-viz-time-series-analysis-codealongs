@@ -1,2 +1,2 @@
-# data-viz-wk18-time-series-codealongs
+# Data Visualization Week 1
  
